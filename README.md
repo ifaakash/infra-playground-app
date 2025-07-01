@@ -1,14 +1,10 @@
 ## Common commands to run this application
 1. Install below required dependencies
+
 | dependencies |
-|----------|
+|----------|----------|----------|
 | uvicorn   |
 | fastapi   |
-
-| dependencies | Header 2 | Header 3 |
-|----------|----------|----------|
-| uvicorn   | Data     | Data     |
-| fastapi   | Data     | Data     |
 
 *Installation process*
 ```python
