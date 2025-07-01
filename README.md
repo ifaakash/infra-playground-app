@@ -2,7 +2,7 @@
 1. Install below required dependencies
 
 | dependencies |
-|----------|----------|----------|
+|----------|
 | uvicorn   |
 | fastapi   |
 
