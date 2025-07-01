@@ -5,6 +5,11 @@
 | uvicorn   |
 | fastapi   |
 
+| dependencies | Header 2 | Header 3 |
+|----------|----------|----------|
+| uvicorn   | Data     | Data     |
+| fastapi   | Data     | Data     |
+
 *Installation process*
 ```python
 pip3 install uvicorn fastapi
