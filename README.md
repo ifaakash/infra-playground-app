@@ -21,3 +21,12 @@ pip3 install uvicorn fastapi
 /health
 /notes
 ```
+
+4. Example of hitting endpoints
+
+```bash
+curl -X GET http://localhost:8000/health
+
+```bash
+curl -X POST http://localhost:8000/notes -H "Content-Type: application/json" -d '{"content":"First note"}'
+```
